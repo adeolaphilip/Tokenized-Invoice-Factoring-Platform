@@ -5,3 +5,5 @@ P
  contracts/credit-assessment.clar,3/7/375521b367fc1a219fc0550a5eb3088c58680098
 S
 #contracts/invoice-verification.clar,3/e/3e8da7caca18da2e5ffb9e595d849bf41f4c16b1
+S
+#contracts/payment-distribution.clar,7/c/7c9c5b9edb02db62b37e3bf02bea002e8433cb10
